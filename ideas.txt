@@ -1,0 +1,24 @@
+Clientes:
+-Filtrar por antiguedad
+-Agregar boton "Agregar cliente"
+
+Comisiones:
+-Agregar, modificar y eliminar
+-Agregar filtros por dia
+
+Pagos:
+-Alta de pagos
+
+Profesores:
+-Separar alta, modifcacion y baja
+-Agregar filtros para profesores
+
+Sueldos:
+-Revisar
+-Filtros
+
+Socios:
+-Separar alta, modifcacion y baja
+
+Menu:
+-Agregar opciones
